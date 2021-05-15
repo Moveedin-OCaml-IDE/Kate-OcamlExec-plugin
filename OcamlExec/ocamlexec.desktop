@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KTextEditor/Plugin
+X-Kate-Version=21.04.1
+Name=Ocaml Execution
+Comment=Plugin used to execute OCaml code with Kate
+X-KDE-Library=kateocamlexecplugin
